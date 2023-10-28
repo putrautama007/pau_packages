@@ -1,7 +1,7 @@
 name: pau_kit
 description: a uikit made by putra utama.
 version: 0.0.1
-homepage:
+homepage: https://github.com/putrautama007/pau_packages/tree/development/packages/pau_kit
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
