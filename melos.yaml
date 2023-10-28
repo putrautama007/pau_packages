@@ -1,0 +1,8 @@
+name: pau_packges
+
+packages:
+  - packages/*
+  - packages/*/*
+  - packages/*/*/*
+
+scripts:
